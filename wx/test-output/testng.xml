@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name=“wx” parallel=“classes” thread-count=“2”>
+    <test name=“gzs.wx”>
+      <classes> 
+         <class name=“gzs.wx.wxXq”/> 
+       </classes> 
+    </test>
+  </suite>
+</testng-results>
